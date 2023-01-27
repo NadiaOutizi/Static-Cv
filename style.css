@@ -1,0 +1,121 @@
+                .sidenav {
+                    background-color: #A9A9A9;
+                    border: 4px double #f8f8ff;
+                    position: absolute;
+                    margin-top: 60px;
+                    z-index: 2;
+                    margin-top: 230px;
+                    padding-top: 70px;
+                    margin-left: 200px;
+                    width: 200px;
+                    height: 300px;
+                    border-radius: 6px;
+                }
+                
+                nav a {
+                    text-decoration: none;
+                    display: block;
+                    color: #fff;
+                    border: 1px solid #fff;
+                    text-align: center;
+                    border-radius: 7px;
+                    font-weight: bolder;
+                }
+                
+                .m1 {
+                    margin-left: 20px;
+                    margin-right: 20px;
+                    margin-bottom: 40px;
+                }
+                
+                .m2 {
+                    margin-left: 20px;
+                    margin-right: 20px;
+                    margin-bottom: 40px;
+                    padding-top: 2px;
+                }
+                
+                .m3 {
+                    margin-left: 20px;
+                    margin-right: 20px;
+                    margin-bottom: 40px;
+                    padding-top: 2px;
+                }
+                
+                .m4 {
+                    margin-left: 20px;
+                    margin-right: 20px;
+                    margin-bottom: 40px;
+                    padding-top: 2px;
+                }
+                
+                a:hover {
+                    background-color: #808088;
+                    color: BLACK;
+                }
+                
+                .main {
+                    background-color: #778899;
+                    width: 500px;
+                    height: 200px;
+                    border: 2px black solid;
+                    position: absolute;
+                    z-index: 3;
+                    margin-left: 80px;
+                }
+                
+                h1 {
+                    text-align: center;
+                }
+                
+                #container {
+                    display: flex;
+                }
+                
+                div .para {
+                    margin-left: 50vh;
+                    margin-top: 200px;
+                    margin-bottom: auto;
+                    border: blaCK 2PX SOLID;
+                    position: absolute;
+                    z-index: 1;
+                    height: 600px;
+                    padding-top: 40px;
+                    padding-right: 10px;
+                    padding-left: 100px;
+                    margin-right: 100px;
+                    background-color: #f8f8ff;
+                    border-radius: 6px;
+                }
+                
+                p {
+                    font-family: Georgia, 'Times New Roman', Times, serif;
+                    margin-top: 40px;
+                    text-align: center;
+                }
+                
+                header {
+                    position: relative;
+                    left: 300px;
+                    top: 70px;
+                }
+                
+                #all {
+                    justify-content: center;
+                }
+                
+                h6 {
+                    text-align: center;
+                }
+                
+                body {
+                    background-color: #5f9ea0;
+                }
+                
+                h1:hover {
+                    color: #fff8dc;
+                }
+                
+                img {
+                    float: right;
+                }

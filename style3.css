@@ -1,0 +1,46 @@
+div.f1 {
+    display: table-row;
+}
+
+label,
+input {
+    display: table-cell;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+fieldset {
+    width: 400px;
+    height: 500px;
+    border: 2px dashed #000;
+    border-radius: 6px;
+}
+
+.t1 {
+    display: flex;
+}
+
+body {
+    position: relative;
+    top: 30px;
+    left: 500px;
+    text-align: center;
+}
+
+legend {
+    font-weight: bolder;
+}
+
+.options {
+    display: inline;
+}
+
+body {
+    background-color: #d3d3d3;
+}
+
+.btn {
+    background-color: #d3d3d3;
+    color: #000;
+    border-radius: 5px;
+}
